@@ -5,16 +5,16 @@ It is a good practice to search for the correct answer by yourself.
 It is recommended you follow the docs https://developer.android.com/guide and search for terms related to android development here
 
 
-Q 1. What is Android Studio and its alternatives? (one sentence answer)
+Q 1. What is Android Studio and its alternatives? (answer in not more than 2 sentences)
 
-Q 2. What languages (coding) are supported by Android Studio? (list and give 1 sentence brief)
+Q 2. What (programming) languages are supported by Android Studio? (list and give 1 sentence brief for each supported language)
 
 Q 3. Give example for following - 
 	 1) Application Name
 	 2) Package Name
 	 3) Application ID
 	 
-Q 4. Is it possible to change application ID or package name for an application? (Answer in max two sentences)
+Q 4. Is it possible to change application ID or package name for an application? (Answer in max 4 sentences)
 
 Q 5. Briefly explain what is Android-Sdk. (1-2 sentences of explanation)
 
@@ -22,7 +22,7 @@ Q 6. What is the purpose of AndroidManifest.xml file?
 
 Q 7. What is the purpose of gradle in context of Android Studio or Android development. (short answer, max 4 sentences)
 
-Q 8. Explain resources in terms of Android development. (1 sentence explanation and example)
+Q 8. Explain resources in terms of Android development. Give example. (1 sentence explanation and example)
 
 Q 9. Explain following in context of Android development-
 	 1) Activity
