@@ -1,0 +1,34 @@
+Assignment 1
+
+You are free to search online for answers to these questions. But do answer (type) them by yourself.
+It is a good practice to search for the correct answer by yourself.
+It is recommended you follow the docs https://developer.android.com/guide and search for terms related to android development here
+
+
+Q 1. What is Android Studio and its alternatives? (one sentence answer)
+
+Q 2. What languages (coding) are supported by Android Studio? (list and give 1 sentence brief)
+
+Q 3. Give example for following - 
+	 1) Application Name
+	 2) Package Name
+	 3) Application ID
+	 
+Q 4. Is it possible to change application ID or package name for an application? (Answer in max two sentences)
+
+Q 5. Briefly explain what is Android-Sdk. (1-2 sentences of explanation)
+
+Q 6. What is the purpose of AndroidManifest.xml file?
+
+Q 7. What is the purpose of gradle in context of Android Studio or Android development. (short answer, max 4 sentences)
+
+Q 8. Explain resources in terms of Android development. (1 sentence explanation and example)
+
+Q 9. Explain following in context of Android development-
+	 1) Activity
+	 2) Launcher activity
+	 3) Events
+	 4) Event listeners
+	 5) Views
+	 
+Q 10. Give example of views available in Android. (list upto 10 and minimum of 5 different views)
