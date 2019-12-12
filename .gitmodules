@@ -1,0 +1,3 @@
+[submodule "ApplicationDemo"]
+	path = ApplicationDemo
+	url = https://github.com/Ujjwal0501/android-demo.git
