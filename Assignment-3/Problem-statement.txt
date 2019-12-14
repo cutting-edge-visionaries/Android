@@ -11,4 +11,4 @@ EXAMPLE: There are 3 images in an application. On opening the app an image is vi
 
 HINT: To add snackbar you might need to add an extra library to the gradle script of the app module. Follow this url (https://stackoverflow.com/a/36515712)
 
-To explore other options of snackbar follow the official documentatin: https://developer.android.com/reference/android/support/design/widget/Snackbar#public-methods
+To explore other options of snackbar follow the official documentation: https://developer.android.com/reference/android/support/design/widget/Snackbar#public-methods
