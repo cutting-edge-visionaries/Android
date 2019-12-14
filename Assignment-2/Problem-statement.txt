@@ -1,11 +1,18 @@
 Assignment 2
 
-Q 1. Create a greeting application.
+Official documentation for 'WebView' class - https://developer.android.com/reference/android/webkit/WebView#public-methods
 
-	 Requirements
-	 1) Application Name = "Greeting App" without quotes
-	 2) Must Contain 2 Activities
-	 3) First activity will ask for name of the Birthday Boy/Girl
-	 4) A button present in the first activity will take us to the second activity
-	 5) Second activity should show a birthday greeting message
-	 6) Second activity should have a good design. Preferably an image or color as background (remember to import image before setting as background)
+Q 1. Create a web browser with following functionality
+
+     Requirements
+     1) By default no webpage should load when we open the app
+     2) Keep a button. When clicked it should load google's home page (www.google.com) don't forget to add 'https://' before the url
+     3) The user should be able to browse through links and to go to next page without leaving the activity.
+     4) A view which should be editable. User can enter an url in it and then on pressing a button, the url should load
+     5) The editable view should also show the current webpage that user is surfing while he/she opens new links in the app
+     6) Your app should provide the functinality to go back and forth while browsing.
+	EXPLAINATION: So, if currently someone is on yahoo's home page and clicks a link which opens new webpage in your app, then on tapping the back button on the phone, the app should take the user back to yahoo's home page instead of closing abruptly.
+        HINT: Try to figure out which method of 'WebView' class will help you here. Try reading the documentation (link for documentation is provided with this file)
+     7) To allow moving back and forth, you should provide dedicated buttons in the application's UI.
+	HINT: try to figure out which method of 'WebView' class will help you implement this feature. It is possible just by calling a simple method of 'WebView' class. 
+     8) You should put different buttons for going forward and backward.
