@@ -7,5 +7,8 @@ Q 1. Create an application which contains at least 2 imported images
      2) On pressing the button the image view should show show different image.
      3) On reaching the last image in your cycle of images, if button is pressed now your app should show a toast/snackbar message telling that you have reached the last image in the list.
 
-EXAMPLE: There are 3 images in an application. On opening the app an image is visible. User clicks the button for first time and the second image is now displayed on the screen. User clicks the button for second time and the third image is shown on the screen. If the button is clicked for the third time, the third should still be visible on the screen and a toast/snackbar should show the following message: "You have reached the last image in the list."
+EXAMPLE: There are 3 images in an application. On opening the app an image is visible. User clicks the button for first time and the second image is now displayed on the screen. User clicks the button for second time and the third image is shown on the screen. If the button is clicked for the third time, the third image should still be visible on the screen and a toast/snackbar should show the following message: "You have reached the last image in the list."
 
+HINT: To add snackbar you might need to add an extra library to the gradle script of the app module. Follow this url (https://stackoverflow.com/a/36515712)
+
+To explore other options of snackbar follow the official documentatin: https://developer.android.com/reference/android/support/design/widget/Snackbar#public-methods
