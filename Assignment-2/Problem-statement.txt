@@ -1,0 +1,11 @@
+Assignment 2
+
+Q 1. Create a greeting application.
+
+	 Requirements
+	 1) Application Name = "Greeting App" without quotes
+	 2) Must Contain 2 Activities
+	 3) First activity will ask for name of the Birthday Boy/Girl
+	 4) A button present in the first activity will take us to the second activity
+	 5) Second activity should show a birthday greeting message
+	 6) Second activity should have a good design. Preferably an image or color as background (remember to import image before setting as background)
