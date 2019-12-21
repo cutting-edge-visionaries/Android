@@ -1,0 +1,13 @@
+Q 1. Create a greeting app which takes user's name in one activity and shows a greeting message in the next activity. The transition between the activities should be done on a button click.
+
+     Requirements
+     1) The app should have two activities.
+     2) In the first activity, user will enter his/her name.
+     3) There should be a button which when pressed, should take the user to the next activity.
+     4) The transition to the next activity should not happen if user has not entered anything.
+     5) The next activity will show a greeting message (for example, birthday message or simply a welcome message, showing the user's name) with some design.
+
+
+HINT: You will have to pass data between two activities. You may search the phrase 'pass string data between activities android developer' and look for some already existing solution to the use case.
+
+TERMS: Intent, putExtra, startActivity, OnClickListener, Button, EditText, getText, setText, getIntent, getStringExtra
